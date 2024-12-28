@@ -1,0 +1,9 @@
+button.c:38:5:isButtonPressed	4	static
+button.c:44:5:isB0Pressed	4	static
+button.c:50:5:isB1Pressed	4	static
+button.c:56:5:isB2Pressed	4	static
+button.c:62:6:subKeyProcess	4	static
+button.c:67:6:subKey0Process	4	static
+button.c:71:6:subKey1Process	4	static
+button.c:75:6:subKey2Process	4	static
+button.c:79:6:getKeyInput	8	static

@@ -1,0 +1,2 @@
+fsm_auto.c:20:6:updateLCD	8	static
+fsm_auto.c:35:6:fsm_automatic	8	static
